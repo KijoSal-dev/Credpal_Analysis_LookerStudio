@@ -17,15 +17,15 @@ The goal was to identify high-value markets, understand spending priorities, and
 
 ### 1. Executive Overview
 *A high-level view of the financial capacity within the dataset, tracking over $665 Billion in Total Income.*
-![Executive Summary Dashboard]([INSERT LINK TO SCREENSHOT OF KPIS HERE])
+![Executive Summary Dashboard]([overview.png])
 
 ### 2. Regional Expenditure Analysis
 *Breakdown of spending power by region, identifying Sub-Saharan Africa and Europe as the leading markets.*
-![Regional Analysis]([INSERT LINK TO SCREENSHOT OF REGIONAL BAR CHARTS HERE])
+![Regional Analysis]([regional.png])
 
 ### 3. Category Performance
 *Analysis of top spending categories, highlighting Meat, Office Supplies, and Household items as essential drivers.*
-![Category Analysis]([INSERT LINK TO SCREENSHOT OF CATEGORY BUBBLE CHARTS HERE])
+![Category Analysis]([category.png])
 
 ---
 
