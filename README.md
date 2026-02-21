@@ -1,11 +1,21 @@
 # Credpal_Analysis_LookerStudio
-
 # 📊 CredPal Sales & Consumer Behavior Analysis
 
 ## 🚀 Project Overview
 This project involves a comprehensive analysis of consumer income, expenditure, and spending habits across various global regions. Using **Looker Studio**, I developed an interactive dashboard to visualize financial behaviors within a dataset of **500,000 records**.
 
 The goal was to identify high-value markets, understand spending priorities, and provide strategic recommendations to maximize revenue capture.
+
+## 📋 Problem Statement
+Analyze Credpal's credit performance data and create actionable business intelligence dashboards to understand customer credit patterns, defaults, and regional performance trends for better decision-making.
+
+## 🎯 Approach
+1. Data Collection: Gathered Credpal credit transaction and customer data
+2. Data Analysis: Processed and analyzed credit metrics (defaults, categories, regional patterns)
+3. Visualization: Built interactive dashboards in Google Looker Studio to visualize insights across multiple dimensions:
+- Overview dashboard (overall credit metrics)
+- Category-wise breakdown (loan/credit by type)
+- Regional analysis (geographic performance)
 
 ## 🛠️ Tools Used
 * **Data Visualization:** Google Looker Studio
