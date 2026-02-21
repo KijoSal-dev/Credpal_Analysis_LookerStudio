@@ -13,9 +13,9 @@ Analyze Credpal's credit performance data and create actionable business intelli
 1. Data Collection: Gathered Credpal credit transaction and customer data
 2. Data Analysis: Processed and analyzed credit metrics (defaults, categories, regional patterns)
 3. Visualization: Built interactive dashboards in Google Looker Studio to visualize insights across multiple dimensions:
-- Overview dashboard (overall credit metrics)
-- Category-wise breakdown (loan/credit by type)
-- Regional analysis (geographic performance)
+   - Overview dashboard (overall credit metrics)
+   -  Category-wise breakdown (loan/credit by type)
+   -  Regional analysis (geographic performance)
 
 ## 🛠️ Tools Used
 * **Data Visualization:** Google Looker Studio
